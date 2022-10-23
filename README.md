@@ -1,4 +1,4 @@
 # Jetpack-Compose-Session
 GDSC Kibabii Jetpack Compose session
 
-<img src="screenshots/Screenshot_20221023_093818.png" width="250"/>
+<img src="screenshot/Screenshot_20221023_093818.png" width="250"/>
